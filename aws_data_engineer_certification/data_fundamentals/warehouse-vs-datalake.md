@@ -14,3 +14,5 @@ Repositório de dados que pode armazenar uma grande quantidade de dados brutos (
 - Sem schema
 - Processamento em batch, real-time e stream.
 ![Data Lake](../Imgs/DataLake.png)
+---
+**[Voltar](./data-fundamentals.md)**

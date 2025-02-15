@@ -12,3 +12,5 @@ Dados sem nenhum tipo de definição de estruturas ou schemas.
 Dados que possui uma estrutura flexível, como hierarquias, tags entre outros formatos.
 - Mais flexíveis que dados estruturados porém menos problemáticos do que não estruturados.
 - Elementos categorizados.
+---
+**[Voltar](./data-fundamentals.md)**

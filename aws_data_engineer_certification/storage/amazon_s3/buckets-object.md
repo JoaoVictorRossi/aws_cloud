@@ -16,3 +16,5 @@ Nada mais é que um arquivo qualquer.
 - Um objeto deve possuir no máximo 5TB (mais do que isso deve ser particionado).
 - Objetos podem possuir tags para classificação, útil para segurança e lifecycle.
 - Se o versionamento do bucket tiver habilitado, os objetos ganham um “Version ID”
+---
+**[Voltar](./s3.md)**

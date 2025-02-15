@@ -13,3 +13,5 @@ Permite replicar objetos de um bucket para outro bucket da mesma região.
 - Dentro da **mesma conta** ou entre **contas diferentes.**
 - Preserva o versionamento dos objetos.
 - Possibilidade de filtrar os objetos que serão replicados.
+---
+**[Voltar](./s3.md)**

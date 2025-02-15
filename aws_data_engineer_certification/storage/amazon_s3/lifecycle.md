@@ -13,3 +13,5 @@ Permite excluir objetos com base no tempo, **exemplo:**
 Você pode criar regras de exclusão ou transição de objetos utilizando critérios:
 - Objetos com prefixo especifico.
 - Objetos com tags especificas.
+---
+**[Voltar](./s3.md)**

@@ -14,3 +14,5 @@ Compactação
 
 - Aumenta a velocidade de transferência de dados, reduz o tamanho de armazenamento necessário.
 - GZIP, LZOP, BZIP2, ZSTD (AWS Redshift examples)
+---
+**[Voltar](./data-fundamentals.md)**

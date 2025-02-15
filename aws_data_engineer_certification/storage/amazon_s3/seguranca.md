@@ -18,3 +18,5 @@
 - Usuário da AWS? Permissões do IAM
 - Acesso da instancia EC2? IAM Roles
 - Acesso de outra conta AWS? Políticas do Bucket
+---
+**[Voltar](./s3.md)**

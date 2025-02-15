@@ -7,3 +7,5 @@ Classes para melhorar o custo de armazenamento dos objetos.
 5. **Glacier:** Armazenamento para arquivar dados de recuperação lenta e baixo custo.
 6. **Glacier Deep Archive:** O armazenamento de menor custo da AWS, recuperação extremamente baixa.
 ![Classes S3](../../Imgs/ClassesS3.png)
+---
+**[Voltar](./s3.md)**

@@ -10,3 +10,5 @@ Quantidade de tempo que o dado é gerado, coletado e processado.
 Refere-se a diferentes tipos de dados, estruturas e fontes de dados.
 - Dados estruturados, semiestruturados e não estruturados.
 - Dados podem ser coletados de diferentes fontes e formatos.
+---
+**[Voltar](./data-fundamentals.md)**
